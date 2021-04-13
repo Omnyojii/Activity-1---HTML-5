@@ -20,7 +20,7 @@ Project is created with:
 * CSS
 	
 ## Tools & Services
-Project is created with tools:
+Project is created using this tools:
 * XAMPP
 * VSCode
 * FontAwesome
