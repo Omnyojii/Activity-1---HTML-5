@@ -9,7 +9,7 @@
 This a collection of project for IT214/WebDev
 	
 ## Technologies
-Project is created with:
+This project is created with:
 * Bootstrap 3 or 4
 * PHP 5 or 7
 * Javascript
@@ -20,7 +20,7 @@ Project is created with:
 * CSS
 	
 ## Tools & Services
-Project is created using this tools and services:
+This project is created using this tools and services:
 * XAMPP
 * VSCode
 * FontAwesome
