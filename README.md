@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Tools & Services](#Tools & Services)
+* [Tools & Services](#Tools-&-Services)
 
 ## General info
 This a collection of project for IT214/WebDev
