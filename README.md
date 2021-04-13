@@ -12,6 +12,9 @@ This a collection of project for IT214/WebDev
 Project is created with:
 * Bootstrap 3 or 4
 * PHP 5 or 7
+* Javascript
+* JQuery
+* AJAX
 * MySQL
 * HTML5
 * CSS
