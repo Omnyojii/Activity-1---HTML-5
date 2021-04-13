@@ -26,5 +26,5 @@ Project is created using this tools:
 * FontAwesome
 * GitHub
 
-## MEME
+## Meme
 ![LOL](./images/webdev.jpg)
