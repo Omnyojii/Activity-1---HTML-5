@@ -26,5 +26,5 @@ This project is created using this tools and services:
 * FontAwesome
 * GitHub
 
-## Meme Time (͠≖ ͜ʖ͠≖)👌
+## Meme Time (͠≖ ͜ʖ͠≖)
 ![LOL](./images/webdev.jpg)
