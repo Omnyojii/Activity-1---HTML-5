@@ -9,18 +9,22 @@
 This a collection of project for IT214/WebDev
 	
 ## Technologies
-Project is created with:
+This project is created with:
 * Bootstrap 3 or 4
 * PHP 5 or 7
+* Javascript
+* JQuery
+* AJAX
 * MySQL
 * HTML5
 * CSS
 	
 ## Tools & Services
-Project is created with tools:
+This project is created using this tools and services:
 * XAMPP
 * VSCode
 * FontAwesome
 * GitHub
 
+## Meme Time (͠≖ ͜ʖ͠≖)
 ![LOL](./images/webdev.jpg)
