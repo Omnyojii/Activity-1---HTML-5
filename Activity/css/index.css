@@ -395,8 +395,8 @@ nav a {
 /* -----------------------FONTAWESOME------------------- */
 
 .social {
-    float: left;
-    display: block;
+    /* float: left; */
+    /* display: block; */
 }
 
 .fa {
